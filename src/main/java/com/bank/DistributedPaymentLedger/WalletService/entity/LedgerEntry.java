@@ -26,6 +26,7 @@ import java.time.LocalDateTime;
 )
 @Immutable
 @Getter
+@Setter
 @ToString(exclude = "wallet")
 @EqualsAndHashCode(exclude = "wallet")
 @NoArgsConstructor
