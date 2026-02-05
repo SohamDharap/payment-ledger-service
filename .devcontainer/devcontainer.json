@@ -1,12 +1,4 @@
 {
   "name": "payment-ledger-service",
-  "image": "mcr.microsoft.com/devcontainers/java:17",
-  "features": {
-    "ghcr.io/devcontainers/features/java:1": {
-      "version": "17"
-    },
-    "ghcr.io/devcontainers/features/maven:1": {
-      "version": "3.9.6"
-    }
-  }
+  "image": "mcr.microsoft.com/devcontainers/java:17"
 }
